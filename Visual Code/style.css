@@ -96,7 +96,7 @@ footer{
 }
 
 form{
-    margin: 40px 0;
+    margin: 40px 50px;
 }
 
 
@@ -130,7 +130,6 @@ form label, form legend{
     border-radius: 5px;
     transition: 1s all;
     cursor:pointer;
-
 }
 
 .enviar:hover{
